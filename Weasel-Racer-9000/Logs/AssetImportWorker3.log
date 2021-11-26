@@ -510,3 +510,236 @@ Received Import Request.
 Start importing Assets/Scripts/SaveData.cs using Guid(934ace0fc740b584ebd506ac7c207709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec0d832d401cc5934a1efea2fb150c1') in 0.024276 seconds 
   Import took 0.076889 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 651.580462 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2C.prefab
+  artifactKey: Guid(d25fb278a7865124ebe53de967e485e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2C.prefab using Guid(d25fb278a7865124ebe53de967e485e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18085ae2399d14ec580ebf8cd057f402') in 6.040133 seconds 
+  Import took 6.080952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3C.prefab
+  artifactKey: Guid(34a795d4163962c44a2a42cd6a8c5c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3C.prefab using Guid(34a795d4163962c44a2a42cd6a8c5c46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4c2ae6f3216340444674dbdf28131c5') in 0.328693 seconds 
+  Import took 0.503078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000941 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4B.prefab
+  artifactKey: Guid(98731c4c52ee2467399ab3c51df44b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4B.prefab using Guid(98731c4c52ee2467399ab3c51df44b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebd53b12007d033f756db6be16bb044') in 0.180551 seconds 
+  Import took 0.223011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000809 seconds.
+  path: Assets/Toon Racing/Models/Colliders/Rally_Car_4A_MeshCollider.fbx
+  artifactKey: Guid(311fea7075f4d43d98b3eff6f4ead669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Colliders/Rally_Car_4A_MeshCollider.fbx using Guid(311fea7075f4d43d98b3eff6f4ead669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ce1969fc7fcad9d5fb8ddd703eb936f') in 1.735545 seconds 
+  Import took 1.751703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001225 seconds.
+  path: Assets/Prefabs/Rally_Car_3B.prefab
+  artifactKey: Guid(51b43518aa6a6c141b5013ba7cd04c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rally_Car_3B.prefab using Guid(51b43518aa6a6c141b5013ba7cd04c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8c104cafc0ad4d924e751191e81fffb') in 0.202657 seconds 
+  Import took 0.243714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001049 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4C.prefab
+  artifactKey: Guid(02035d56d03f7e441b84e0c4cd29f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4C.prefab using Guid(02035d56d03f7e441b84e0c4cd29f77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f1d89498ed8aae66a5029fad23d96c') in 0.093175 seconds 
+  Import took 0.213452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000879 seconds.
+  path: Assets/Toon Racing/Models/Colliders/Rally_Car_3A_MeshCollider.fbx
+  artifactKey: Guid(62866ae7b565c4370a4f58d31754cbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Colliders/Rally_Car_3A_MeshCollider.fbx using Guid(62866ae7b565c4370a4f58d31754cbbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9a5c868d12ef3a51d2a05910c6f18b6') in 0.123419 seconds 
+  Import took 0.215822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000882 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4A.prefab
+  artifactKey: Guid(adde6a3169b244a50ae2377121e2e60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_4A.prefab using Guid(adde6a3169b244a50ae2377121e2e60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3f6770790d1b81e3082756febe74dc') in 0.101634 seconds 
+  Import took 0.131166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000918 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3A.prefab
+  artifactKey: Guid(feecd96ddcc5745628257de8cb099d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3A.prefab using Guid(feecd96ddcc5745628257de8cb099d6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '632c4e252134788e4e37b226ff475c7a') in 0.147466 seconds 
+  Import took 0.163112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000947 seconds.
+  path: Assets/Prefabs/Rally_Car_4A.prefab
+  artifactKey: Guid(08e1f2466b6f00648b55b310d40414f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rally_Car_4A.prefab using Guid(08e1f2466b6f00648b55b310d40414f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209f401e0d83fbbd32ba4504b8736f78') in 0.129493 seconds 
+  Import took 0.208690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000899 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3B.prefab
+  artifactKey: Guid(e0f7ca5d1e52241cb82199fc3efe245b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_3B.prefab using Guid(e0f7ca5d1e52241cb82199fc3efe245b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f172b0099566253a2cd5ac912d2190') in 0.097847 seconds 
+  Import took 0.126607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000884 seconds.
+  path: Assets/Toon Racing/Models/Rally_Car_3A.fbx
+  artifactKey: Guid(6ed0208f3808246f690c40c973118283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rally_Car_3A.fbx using Guid(6ed0208f3808246f690c40c973118283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64996f392649b98e1372d7feed32e11f') in 0.544307 seconds 
+  Import took 0.561366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Toon Racing/Models/Colliders/Rally_Car_2A_MeshCollider.fbx
+  artifactKey: Guid(33adf916b6a4a4a658637e36a6099dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Colliders/Rally_Car_2A_MeshCollider.fbx using Guid(33adf916b6a4a4a658637e36a6099dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38629d5c90fd64ed1e27ece5e6c07d5a') in 0.093253 seconds 
+  Import took 0.149399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000945 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2B.prefab
+  artifactKey: Guid(75e65f2b91ba84bc4a655501f54df469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2B.prefab using Guid(75e65f2b91ba84bc4a655501f54df469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84537d9d7a5683f199f6ea6d49c2e4b6') in 0.172316 seconds 
+  Import took 0.212966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000923 seconds.
+  path: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2A.prefab
+  artifactKey: Guid(6297f5873427b4a6186eeed06fb4ec91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2A.prefab using Guid(6297f5873427b4a6186eeed06fb4ec91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed834915c85ba9e7cb366c83c557154') in 0.091895 seconds 
+  Import took 0.132130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Toon Racing/Models/Rally_Car_4A.fbx
+  artifactKey: Guid(2745bd9a9e5de45cf948c92de120f297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rally_Car_4A.fbx using Guid(2745bd9a9e5de45cf948c92de120f297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028df14d7e0d5127369fea8128b88339') in 0.496713 seconds 
+  Import took 0.599211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.240635 seconds.
+  path: Assets/Toon Racing/Models/Rocks_1A.fbx
+  artifactKey: Guid(2512b87271265a440a0aac96c2961bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rocks_1A.fbx using Guid(2512b87271265a440a0aac96c2961bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237be07434a26bffe3516110f9d85a91') in 0.135688 seconds 
+  Import took 0.154306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Toon Racing/Models/Rocks_1B.fbx
+  artifactKey: Guid(4a36f5cf5b61e294bad27c696055601c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rocks_1B.fbx using Guid(4a36f5cf5b61e294bad27c696055601c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e572e5d5fbb6793362715e71e72c07fa') in 0.138075 seconds 
+  Import took 0.164354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001044 seconds.
+  path: Assets/Toon Racing/Prefabs/Props/Rocks_1A.prefab
+  artifactKey: Guid(a3a084ebbb2e7dd4e96a28cd55b16705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Props/Rocks_1A.prefab using Guid(a3a084ebbb2e7dd4e96a28cd55b16705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1b95eff931819984a9d8e57a307f8d') in 0.037594 seconds 
+  Import took 0.070365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.211117 seconds.
+  path: Assets/Toon Racing/Prefabs/Props/Rocks_1B.prefab
+  artifactKey: Guid(cfae4eb229870da4b8890b84f8475cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Prefabs/Props/Rocks_1B.prefab using Guid(cfae4eb229870da4b8890b84f8475cab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2057773db7ac8dc3dd3f9e1c09fd14d8') in 0.106337 seconds 
+  Import took 0.120539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001309 seconds.
+  path: Assets/Toon Racing/Models/Rotating_Platform_1A.fbx
+  artifactKey: Guid(1149e681b17ea4e1ba4ad631341bd2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rotating_Platform_1A.fbx using Guid(1149e681b17ea4e1ba4ad631341bd2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3edc1c316ca42008da96fd626b3fe5b5') in 0.352824 seconds 
+  Import took 0.376292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001519 seconds.
+  path: Assets/Toon Racing/Models/Rotation_Marker.fbx
+  artifactKey: Guid(b96f419f2377540bb9cde62226506326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Toon Racing/Models/Rotation_Marker.fbx using Guid(b96f419f2377540bb9cde62226506326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0cb9086162dec1d8068ffabab11b9d8') in 0.132383 seconds 
+  Import took 0.146957 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.869 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2870ms)
+		BeginReloadAssembly (381ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (26ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (110ms)
+		EndReloadAssembly (2379ms)
+			LoadAssemblies (218ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (817ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (142ms)
+			SetupLoadedEditorAssemblies (798ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (167ms)
+				ProcessInitializeOnLoadAttributes (602ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (33ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 144.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3740.
+Total: 6.942580 ms (FindLiveObjects: 0.569905 ms CreateObjectMapping: 0.298728 ms MarkObjects: 5.907567 ms  DeleteObjects: 0.163139 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

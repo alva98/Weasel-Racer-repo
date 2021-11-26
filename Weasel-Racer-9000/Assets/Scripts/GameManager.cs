@@ -56,18 +56,14 @@ public class GameManager : MonoBehaviour
             return;
         }
         DontDestroyOnLoad(this);
-
         manager = this;
-
-       SceneManager.sceneLoaded += OnSceneLoaded;
-
-        
+        SceneManager.sceneLoaded += OnSceneLoaded;
     }
+
     private void Start()
     {
         SaveData.LoadGameData();
     }
-
 
     public void SpawnVehicle(int num)
     {
@@ -79,7 +75,7 @@ public class GameManager : MonoBehaviour
         if (SceneManager.GetActiveScene().buildIndex == 1)
         {
             player = GameObject.FindGameObjectWithTag("Player").transform;
-            Debug.Log("OnSceneLoadedCalled");
+            Debug.Log("Se llamo al metodo OnSceneLoaded");
             SpawnVehicle(carSelection);
             UIManager.Instance.UpdateScore(currentScore);
         }

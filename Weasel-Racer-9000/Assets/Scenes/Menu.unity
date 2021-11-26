@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028355, g: 0.22571374, b: 0.30692255, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1618,6 +1618,14 @@ PrefabInstance:
       propertyPath: carSelection
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5614522469345627729, guid: c6d600a9c9efa3444b0c5f1b9b39a247, type: 3}
+      propertyPath: carOptions.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5614522469345627729, guid: c6d600a9c9efa3444b0c5f1b9b39a247, type: 3}
+      propertyPath: carOptions.Array.data[3]
+      value: 
+      objectReference: {fileID: 1000010224369694, guid: 98731c4c52ee2467399ab3c51df44b7f, type: 3}
     - target: {fileID: 5614522469345627742, guid: c6d600a9c9efa3444b0c5f1b9b39a247, type: 3}
       propertyPath: m_Name
       value: GameManager
